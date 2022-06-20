@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 String[] food = {"Tacos","Pizza","Steak"};
 food[0] = "dogFood";
 food[2] = "mushrooms";
@@ -16,6 +15,3 @@ int[][]data={
   {-8,-7,-6,-5,-4,-3,-2,-1,0}
 };
 println(data[4][2]);
-=======
-
->>>>>>> cb918d530ed995a4a519a7de886a6412d5a179b1
